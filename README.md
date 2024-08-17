@@ -1,16 +1,15 @@
-## Hi there 👋
+## About Myself
 
-<!--
-**Lenacius/Lenacius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+Hi! I'm Isamu, a **Game Developer** currently delving in User Experience (UX).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Knowledge
+
+- Language: ABAP, C/C++, C#, Javascript, Python
+- Game Engines: Unity, Godot, GameMaker Studio 2
+- Agile Methodology: Scrum, Kanban
+
+## Projects
+
+[Click here to check what I'm currently working on!](Projects/)
