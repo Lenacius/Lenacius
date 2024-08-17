@@ -1,8 +1,8 @@
 ## About Myself
 
----
-
 Hi! I'm Isamu, a **Game Developer** currently delving in User Experience (UX).
+
+[Check out my Github Pages!](https://lenacius.github.io/Lenacius/)
 
 ## Knowledge
 
@@ -12,4 +12,4 @@ Hi! I'm Isamu, a **Game Developer** currently delving in User Experience (UX).
 
 ## Projects
 
-[Click here to check what I'm currently working on!](Projects/)
+[Click here to check what I'm currently working on!](https://lenacius.github.io/Lenacius/Projects/)
