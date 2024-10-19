@@ -53,6 +53,6 @@ Hi! I'm Isamu, a **Software / Game Developer** currently delving in **User Exper
 
 ## **Projects**
 
-[Click here to check what I'm currently working on!](Projects/){ .md-button }
+[Click here to check what I'm currently working on!](Projects/index.md){ .md-button }
 
 </center>

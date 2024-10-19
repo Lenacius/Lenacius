@@ -8,4 +8,6 @@ hide:
 
 ## **Projects**
 
-Under constructions
+=== "**C++ Projects**"
+    === "**CMD Snake**"
+        --8<-- "Projects/cpp_projects/cmd_snake.md"
